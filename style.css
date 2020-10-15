@@ -154,8 +154,9 @@ body {
 
 .winning-message button {
    font-size: 1.5rem;
+   font-family: "Staatliches", cursive;
    width: fit-content;
-   padding: 10px;
+   padding: 15px 20px;
    cursor: pointer;
 }
 
